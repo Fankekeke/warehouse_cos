@@ -53,7 +53,7 @@ lisi
 
 |  |  |
 |---------------------|---------------------|
-|![WxCqp.png](https://i0.imgs.ovh/2023/12/20/WxCqp.png) 首页注册图~~~~~~~~~~~~ | ![Wx623.png](https://i0.imgs.ovh/2023/12/20/Wx623.png) |
+|![WxCqp.png](https://i0.imgs.ovh/2023/12/20/WxCqp.png) | ![Wx623.png](https://i0.imgs.ovh/2023/12/20/Wx623.png) |
 |![WxAz2.png](https://i0.imgs.ovh/2023/12/20/WxAz2.png) | ![WxWI9.png](https://i0.imgs.ovh/2023/12/20/WxWI9.png) |
 |![WxFIK.png](https://i0.imgs.ovh/2023/12/20/WxFIK.png) | ![WxkzO.png](https://i0.imgs.ovh/2023/12/20/WxkzO.png) |
 |![WxZyj.png](https://i0.imgs.ovh/2023/12/20/WxZyj.png) | ![WxBCH.png](https://i0.imgs.ovh/2023/12/20/WxBCH.png) |
