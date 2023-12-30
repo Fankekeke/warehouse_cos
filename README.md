@@ -1,4 +1,4 @@
-#### 基于SpringBoot + Vue的仓库管理系统.
+### 基于SpringBoot + Vue的仓库管理系统.
 
 #### 安装环境
 
