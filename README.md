@@ -62,7 +62,7 @@ lisi
 | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703081035620.jpg) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703080818367.jpg) |
 | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703081023390.jpg) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703080803381.jpg) |
 | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703080992261.jpg) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703080792182.jpg) |
-| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703080981840.jpg) | 
+| ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/img/1703080981840.jpg) | ![](https://fank-bucket-oss.oss-cn-beijing.aliyuncs.com/work/936e9baf53eb9a217af4f89c616dc19.png) |
 
 
 #### 演示视频
